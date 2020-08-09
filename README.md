@@ -10,29 +10,25 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+## Carlos's Cloud Journey
 
-## [✍️ Your Name]'s Cloud Journey
+I'm currently a DevOps/Cloud engineer working most of the time with AWS and Azure DevOps. I'm always looking to describe myself for the things that I love. Learning is one of that, also share my time with who I love.
 
-[✍️ Introduce yourself]
+I started this challenge looking for learning more about the most used cloud providers. Learning new things is my passion but this kind of initiative helps me with my own discipline.
 
-[✍️ Tell us why you started this challenge]
+At the end of this challenge I would like to pass one AWS Pro certification and also I would like to get at least one certification from Azure. 
 
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [Twitter](https://twitter.com/L0rum4)
+- [LinkedIn](https://www.linkedin.com/in/cmgomezm15/)
 
 ## Stepping out the door
 
 - [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
+- [ ] ☁️ 2 > [Practice test about AWS SysOps](Journey/002/Readme.md)
+- [ ] ☁️ 3 > [Move around GCP](Journey/003/Readme.md)
+- [ ] ☁️ 4 > [Get ready for AWS SysOps and playing with Azure build pipelines](Journey/004/Readme.md)
+- [ ] ☁️ 5 > [AWS x4](Journey/005/Readme.md)
+- [ ] ☁️ 6 > [Rest and Celebrate](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
