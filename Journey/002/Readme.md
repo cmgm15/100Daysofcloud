@@ -6,4 +6,4 @@
 
 ## Social Proof
 
-[Twitter](https://twitter.com/L0rum4/status/1290867798969810944)
+[Twitter](https://twitter.com/cmgomezm15/status/1290867798969810944)

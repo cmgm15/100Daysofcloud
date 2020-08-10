@@ -18,7 +18,7 @@ I started this challenge looking for learning more about the most used cloud pro
 
 At the end of this challenge I would like to pass one AWS Pro certification and also I would like to get at least one certification from Azure. 
 
-- [Twitter](https://twitter.com/L0rum4)
+- [Twitter](https://twitter.com/cmgomezm15)
 - [LinkedIn](https://www.linkedin.com/in/cmgomezm15/)
 
 ## Stepping out the door
