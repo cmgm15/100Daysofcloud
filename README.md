@@ -31,7 +31,7 @@ At the end of this challenge I would like to pass one AWS Pro certification and 
 - [ ] ☁️ 6 > [Rest and Celebrate](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [Taking things seriously](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [Parallel jobs and azure self-hosted agents](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
+- [ ] ☁️ 9 > [AWS Well Architected Framework](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
 ## Walking down the road
