@@ -32,13 +32,13 @@ At the end of this challenge I would like to pass one AWS Pro certification and 
 - [ ] ☁️ 7 > [Taking things seriously](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [Parallel jobs and azure self-hosted agents](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [AWS Well Architected Framework](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [ ] ☁️ 10 > [AWS Solutions Architect Pro - Here we go](Journey/010/Readme.md)
 
 ## Walking down the road
 
-- [ ] ☁️ 11 > [](Journey/011/Readme.md)
-- [ ] ☁️ 12 > [](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
+- [ ] ☁️ 11 > [IAM Forever](Journey/011/Readme.md)
+- [ ] ☁️ 12 > [First practice exam](Journey/012/Readme.md)
+- [ ] ☁️ 13 > [AWS Essentials](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
