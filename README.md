@@ -23,10 +23,10 @@ At the end of this challenge I would like to pass one AWS Pro certification and 
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [Practice test about AWS SysOps](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [Move around GCP](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [Get ready for AWS SysOps and playing with Azure build pipelines](Journey/004/Readme.md)
+- [✅] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [✅] ☁️ 2 > [Practice test about AWS SysOps](Journey/002/Readme.md)
+- [✅] ☁️ 3 > [Move around GCP](Journey/003/Readme.md)
+- [✅] ☁️ 4 > [Get ready for AWS SysOps and playing with Azure build pipelines](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [AWS x4](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [Rest and Celebrate](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [Taking things seriously](Journey/007/Readme.md)
